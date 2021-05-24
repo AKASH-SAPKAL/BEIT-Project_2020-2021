@@ -1,15 +1,16 @@
 # BEIT-Project_2020-2021
-
-Following Repository Consists of Final Project Source code (Group Number.Project Title.zip)
-
-a.Working Source code with Latest Database Backup 
-b.Synopsis Soft Copy(.pdf) (SEM-7)
-c.Final Project Report Black book (SEM-8)(.pdf) 
-d.All Project Presentations(Mid-Term & Final) (.ppt and .pdf) 
-e.All Reference Papers
-f.Published Papers (if any) (.pdf)
-g.Industry letter (if sponsered project)
-h.Include README.md file with 
-  i.Title Of Project 
-  ii.Group Members 
-  iii.Brief Description about Project Implementation
+IOT ENABLED GAS LEAKAGE DETECTION SYSTEM
+Members: Shailesh Maurya
+         Akash Sapkal
+         Sankalp Patil
+         
+         
+Description: Gas leakage is a major problem with industrial sector, residential premises and gas powered
+vehicles like CNG (compressed natural gas) buses, cars. One of the preventive methods
+to stop accident associated with the gas leakage is to install gas leakage detection kit at
+vulnerable places. The aim of this paper is to present such a design that can automatically
+detect and stop gas leakage in vulnerable premises. In particular gas sensor has been used
+which has high sensitivity for propane (C3H8) and butane (C4H10). Gas leakage system
+consists of GSM (Global System for mobile communications) module, which warns by sending
+SMS and webserver for continuously monitoring . However, the former gas leakage system
+cannot react in time.
